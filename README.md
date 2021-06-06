@@ -3,4 +3,4 @@
 
 🔮 Une vidéo pour vous expliquer comme utiliser le module ```js2py``` instalable par ```pip install js2py```.
 
-<a href="https://www.youtube.com/watch?v=ByjpBvpPp8Q">La Vidéo<a/>
+[>] <a href="https://www.youtube.com/watch?v=ByjpBvpPp8Q">La Vidéo<a/>
